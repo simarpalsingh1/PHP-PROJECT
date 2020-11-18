@@ -73,7 +73,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `contact`, `city`, `address`) VALUES
-(4, 'simarpal', 'sim32@gmail.com', 'sss', '6263056779', 'jal', 'adampur');
+(4, 'simarpal', 'sim32@gmail.com', 'sss', '8146183343', 'jal', 'adampur');
 
 -- --------------------------------------------------------
 
